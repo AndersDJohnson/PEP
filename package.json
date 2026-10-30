@@ -31,7 +31,7 @@
     "grunt-git-authors": "^3.0.0",
     "grunt-jscs": "1.8.0",
     "intern": "2.2.2",
-    "lodash": "^3.9.3",
+    "lodash": "^4.18.1",
     "request": "^2.58.0"
   },
   "web-platform-tests": {
